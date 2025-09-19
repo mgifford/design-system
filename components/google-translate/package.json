@@ -17,7 +17,7 @@
   "license": "ISC",
   "devDependencies": {
     "@open-wc/testing": "^3.0.1",
-    "@web/test-runner-puppeteer": "^0.10.2",
+    "@web/test-runner-puppeteer": "^0.18.0",
     "@open-wc/eslint-config": "^4.3.0",
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.3.0",
